@@ -1,0 +1,17 @@
+# Static Images (Hero & Categories)
+Hero Background: https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=1920&q=80
+Hero Video: https://videos.pexels.com/video-files/3756003/3756003-uhd_2560_1440_25fps.mp4
+Category Women: https://images.unsplash.com/photo-1509631179647-0177331693ae?w=1200&q=80
+Category Men: https://images.unsplash.com/photo-1617137968427-85924c800a22?w=800&q=80
+Category Accessories: https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=800&q=80
+Category Winter: https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800&q=80
+
+# Dynamic Product Images (Mock Data)
+# These are generated using Picsum Photos. You can download random images or use these patterns.
+Product Image Pattern 1: https://picsum.photos/seed/{id}-1/800/1000
+Product Image Pattern 2: https://picsum.photos/seed/{id}-2/800/1000
+Product Image Pattern 3: https://picsum.photos/seed/{id}-3/800/1000
+Product Image Pattern 4: https://picsum.photos/seed/{id}-4/800/1000
+
+# Local Placeholders
+/placeholder.svg

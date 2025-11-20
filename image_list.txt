@@ -1,0 +1,57 @@
+# EZCENTIALS IMAGE ASSETS LIST
+# Place these files in the /public/images/ folder structure
+
+# --- HOMEPAGE & BANNERS ---
+/public/images/homepage/hero-main-couple-winter.jpg
+/public/images/homepage/hero-banner-men-suit.jpg
+/public/images/homepage/hero-banner-women-coat.jpg
+/public/images/homepage/editorial-winter-curation.jpg
+/public/images/homepage/brand-spotlight-gucci.jpg
+
+# --- CATEGORIES ---
+/public/images/categories/cat-men-fashion.jpg
+/public/images/categories/cat-women-fashion.jpg
+/public/images/categories/cat-accessories-luxury.jpg
+/public/images/categories/cat-shoes-leather.jpg
+/public/images/categories/cat-bags-designer.jpg
+
+# --- PRODUCTS: MEN (Examples) ---
+/public/images/products/men/hugo-boss-wool-coat-navy.jpg
+/public/images/products/men/hugo-boss-wool-coat-black.jpg
+/public/images/products/men/armani-suit-grey-slim.jpg
+/public/images/products/men/ralph-lauren-knit-sweater-cream.jpg
+/public/images/products/men/moncler-puffer-jacket-red.jpg
+/public/images/products/men/burberry-trench-coat-beige.jpg
+/public/images/products/men/tom-ford-shirt-white.jpg
+/public/images/products/men/zegna-trousers-wool-charcoal.jpg
+
+# --- PRODUCTS: WOMEN (Examples) ---
+/public/images/products/women/chanel-tweed-jacket-black.jpg
+/public/images/products/women/dior-silk-dress-red.jpg
+/public/images/products/women/maxmara-coat-camel.jpg
+/public/images/products/women/gucci-blouse-silk-floral.jpg
+/public/images/products/women/prada-skirt-pleated-navy.jpg
+/public/images/products/women/versace-evening-dress-black.jpg
+/public/images/products/women/ysl-blazer-black.jpg
+/public/images/products/women/fendi-knit-sweater-logo.jpg
+
+# --- PRODUCTS: ACCESSORIES (Examples) ---
+/public/images/products/accessories/gucci-belt-leather-black.jpg
+/public/images/products/accessories/hermes-scarf-silk-print.jpg
+/public/images/products/accessories/bottega-veneta-bag-woven-green.jpg
+/public/images/products/accessories/rolex-watch-submariner.jpg
+/public/images/products/accessories/cartier-sunglasses-gold.jpg
+/public/images/products/accessories/louis-vuitton-wallet-monogram.jpg
+/public/images/products/accessories/saint-laurent-crossbody-bag-black.jpg
+
+# --- HOLIDAY / SEASONAL ---
+/public/images/christmas/gift-guide-him.jpg
+/public/images/christmas/gift-guide-her.jpg
+/public/images/winter/winter-essential-scarf.jpg
+/public/images/winter/snow-boots-collection.jpg
+
+# --- ICONS / UI (Optional if not using SVG) ---
+/public/images/icons/flag-de.png
+/public/images/icons/flag-en.png
+/public/images/icons/flag-fr.png
+/public/images/icons/payment-methods.png
