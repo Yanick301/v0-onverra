@@ -1,8 +1,8 @@
 {
-  "name": "copy-of-ezcentials-luxury-fashion-final",
-  "version": "0.0.0",
+  "name": "ezcentials-luxury-fashion-final",
+  "version": "1.0.0",
   "private": true,
-  "description": "<div align=\"center\">\r <img width=\"1200\" height=\"475\" alt=\"GHBanner\" src=\"https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6\" />\r </div>",
+  "description": "Site E-commerce Next.js pour la boutique EZCENTIALS",
   "keywords": [],
   "homepage": "https://github.com/Yanick301/finallliste#readme",
   "bugs": {
@@ -14,12 +14,10 @@
   },
   "license": "ISC",
   "author": "",
-  "type": "module",
-  "main": "index.js",
   "scripts": {
-    "build": "vite build",
-    "dev": "vite",
-    "preview": "vite preview"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
     "@emotion/is-prop-valid": "latest",
@@ -27,11 +25,9 @@
     "clsx": "^2.1.1",
     "framer-motion": "latest",
     "lucide-react": "^0.454.0",
-    "next": "16.0.3",
-    "path": "0.12.7",
+    "next": "14.2.4",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "react-router-dom": "^7.9.6",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
     "tw-animate-css": "latest"
@@ -40,11 +36,9 @@
     "@types/node": "^22",
     "@types/react": "19.2.6",
     "@types/react-dom": "19.2.3",
-    "@vitejs/plugin-react": "^5.0.0",
     "autoprefixer": "^10.4.22",
     "postcss": "^8.5",
     "tailwindcss": "^4.1.17",
-    "typescript": "^5",
-    "vite": "^6.2.0"
+    "typescript": "^5"
   }
 }
